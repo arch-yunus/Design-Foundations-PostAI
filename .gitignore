@@ -1,0 +1,14 @@
+# OS Meta Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary
+/tmp/
+*.log
